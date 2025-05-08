@@ -1,0 +1,443 @@
+[
+  {
+    "id": 1,
+    "name": "Art & Crafts",
+    "products": [
+      {
+        "id": 1,
+        "name": "Abstract Canvas Painting",
+        "description": "Acrylic on stretched canvas, vibrant colors,Hand-painted abstract artwork on high-quality canvas using acrylic or oil paints. Customizable for wall dimensions.",
+        "price": 120,
+        "rating": 3.5,
+        "images": [
+          "./assets/images/CustomNameEmbroideryHoop.jpg",
+          "./assets/images/CustomNameEmbroideryHoop.jpeg"
+        ],
+        "sizes": ["60x90 inches", "12x16 inches", "24x36 inches"]
+      },
+      {
+        "id": 2,
+        "name": "Cross-Stitched Wall Hanging",
+        "description": "A beautifully handcrafted wall decor piece, featuring intricate cross-stitch designs. These wall hangings are created with premium cotton fabric and framed in wooden or metal borders, making them durable and visually appealing. Perfect for adding a touch of elegance and charm to any space.",
+        "price": 50,
+        "rating": 3,
+        "images": ["./assets/images/CrossSwitch.jpeg"],
+        "sizes": ["12x16 inches", "8x10 inches", "16x20 inches"]
+      },
+      {
+        "id": 3,
+        "name": "Crochet Plush Toys",
+        "description": "Adorable, handmade crochet plush toys crafted with soft, skin-friendly yarn, perfect for kids and collectors. These toys are durable, safe, and filled with hypoallergenic stuffing, making them suitable for all ages.",
+        "price": 30,
+        "rating": 4,
+        "images": [
+          "./assets/images/CrochetToy.jpeg",
+          "./assets/images/CrochetToy2.jpeg",
+          "./assets/images/CrochetToy3.jpeg"
+        ],
+        "sizes": ["small(6 inches)", "medium(10 inches)", "large(14 inches)"]
+      },
+      {
+        "id": 4,
+        "name": "Clay Miniature Sculptures",
+        "description": "Delicately handcrafted clay miniature sculptures, perfect for collectors and decor enthusiasts. These intricate pieces are made with high-quality polymer clay, ensuring durability and vibrant details.",
+        "price": 25,
+        "rating": 4,
+        "images": [
+          "./assets/images/Clay Miniature Sculptures1.jpeg",
+          "./assets/images/Clay Miniature Sculptures2.jpeg"
+        ],
+        "sizes": [
+          "small(1-2 inches)",
+          "medium(3-4 inches)",
+          "large(5-6 inches)"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Wooden Carvings",
+        "description": "Exquisitely handcrafted wooden carvings made from high-quality natural wood, showcasing intricate details and artistic craftsmanship. Perfect for adding a rustic charm to any space.",
+        "price": 30,
+        "rating": 3,
+        "images": [
+          "./assets/images/Wooden Carvings1.jpg",
+          "./assets/images/Wooden Carvings2.jpeg",
+          "./assets/images/Wooden Carvings3.jpeg"
+        ],
+        "sizes": [
+          "small(4x6 inches)",
+          "medium(8x10 inches)",
+          "large(12x16 inches)"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Resin Art Wall Clock",
+        "description": "A stunning handmade wall clock featuring vibrant resin art designs that combine functionality with artistic elegance. Each piece is crafted with precision and sealed for a glossy, durable finish.",
+        "price": 90,
+        "rating": 4,
+        "images": [
+          "./assets/images/Resin Art Wall Clock1.jpeg",
+          "./assets/images/Resin Art Wall Clock2.jpeg",
+          "./assets/images/Resin Art Wall Clock3.jpeg",
+          "./assets/images/Resin Art Wall Clock4.jpeg"
+        ],
+        "sizes": ["12-inch diameter", "14-inch diameter", "16-inch diameter"]
+      },
+      {
+        "id": 7,
+        "name": "Clay Planters",
+        "description": "Charming handmade clay planters designed to bring a natural and artistic touch to your indoor or outdoor spaces. Each piece is crafted with care, ensuring durability and unique aesthetics.",
+        "price": 20,
+        "rating": 3.5,
+        "images": [
+          "./assets/images/Clay Planters1.jpeg",
+          "./assets/images/Handmade clay planter2.jpeg",
+          "./assets/images/Clay Planters3.jpeg"
+        ],
+        "sizes": ["small(4 inches)", "medium(6 inches)", "large(8 inches)"]
+      },
+      {
+        "id": 8,
+        "name": "Handmade Wooden Jewelry Box",
+        "description": "A beautifully crafted wooden jewelry box, combining elegance and functionality. Perfect for organizing and storing your precious accessories, these boxes are designed with intricate details and a smooth finish.",
+        "price": 70,
+        "rating": 3,
+        "images": [
+          "./assets/images/Handmade Wooden Jewelry Box1.jpeg",
+          "./assets/images/Handmade Wooden Jewelry Box2.jpeg"
+        ],
+        "sizes": [
+          "small(6x4 inches)",
+          "medium(8x6 inches)",
+          "large(10x8 inches)"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Quilling Art Frames",
+        "description": "Delicate and intricate quilling art framed in beautiful designs, made by hand from paper strips. These framed artworks add a touch of elegance and creativity to any room.",
+        "price": 40,
+        "rating": 3.5,
+        "images": [
+          "./assets/images/Quilling Art Frames2.jpeg",
+          "./assets/images/Quilling Art Frames1.jpeg",
+          "./assets/images/Quilling Art Frames3.jpeg"
+        ],
+        "sizes": [
+          "small(8x10 inches)",
+          "medium(12x12 inches)",
+          "large(16x20 inches)"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Handwoven Wall Hangings",
+        "description": "Elegant and unique handwoven wall hangings crafted with natural fibers, adding texture and warmth to any space. These pieces are made with traditional weaving techniques, creating a blend of art and function.",
+        "price": 50,
+        "rating": 4.5,
+        "images": [
+          "./assets/images/Handwoven Wall Hangings1.jpg",
+          "./assets/images/Handwoven Wall Hangings2.jpeg",
+          "./assets/images/Handwoven Wall Hangings3.jpeg",
+          "./assets/images/Handwoven Wall Hangings4.jpeg"
+        ],
+        "sizes": [
+          "small(12x18 inches)",
+          "medium(18x24 inches)",
+          "large(24x36 inches)"
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Stained Glass Panels",
+        "description": "Beautifully crafted stained glass panels that blend vibrant colors and intricate designs, perfect for adding a touch of elegance and color to any space. Each panel is hand-cut and assembled with care, creating a timeless piece of art.",
+        "price": 100,
+        "rating": 4,
+        "images": [
+          "./assets/images/Stained Glass Panels1.jpeg",
+          "./assets/images/Stained Glass Panels2.jpeg"
+        ],
+        "sizes": [
+          "small(12x12 inches)",
+          "medium(18x24 inches)",
+          "large(24x36 inches)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Cosmetics",
+    "products": [
+      {
+        "id": 12,
+        "name": "Handmade Soaps",
+        "description": "Luxurious and natural handmade soaps crafted with high-quality ingredients, designed to cleanse and nourish the skin. These soaps are made using traditional methods, ensuring a gentle yet effective wash.",
+        "price": 6,
+        "rating": 3,
+        "images": ["./assets/images/soap1.jpeg", "./assets/images/soap2.jpeg"],
+        "sizes": []
+      },
+      {
+        "id": 13,
+        "name": "Body Scrub",
+        "description": "A luxurious handmade body scrub that gently exfoliates and hydrates the skin, leaving it soft, smooth, and glowing. Made with natural exfoliants and nourishing oils for an effective skincare routine.",
+        "price": 15,
+        "rating": 3.5,
+        "images": ["./assets/images/Body Scrub.jpeg"],
+        "sizes": ["200g"]
+      },
+      {
+        "id": 14,
+        "name": "Lip Balm",
+        "description": "A nourishing and hydrating handmade lip balm that softens and protects your lips, keeping them smooth and moisturized throughout the day. Made with natural ingredients to ensure safe and gentle care.",
+        "price": 5,
+        "rating": 3.5,
+        "images": [
+          "./assets/images/Lip Balm1.jpeg",
+          "./assets/images/Lip Balm2.jpeg",
+          "./assets/images/Lip Balm3.jpeg"
+        ],
+        "sizes": []
+      },
+      {
+        "id": 15,
+        "name": "Hair Mask",
+        "description": "A deeply moisturizing and nourishing handmade hair mask that restores and strengthens your hair, leaving it soft, shiny, and healthy. Made with natural ingredients to rejuvenate all hair types.",
+        "price": 20,
+        "rating": 4,
+        "images": [
+          "./assets/images/Clay Miniature Sculptures1.jpeg",
+          "./assets/images/Clay Miniature Sculptures2.jpeg"
+        ],
+        "sizes": ["250g"]
+      },
+      {
+        "id": 16,
+        "name": "Scented Candles",
+        "description": "Hand-poured scented candles that fill your space with calming and refreshing aromas, perfect for relaxation or creating a cozy ambiance. Made with natural soy wax for a clean, long-lasting burn.",
+        "price": 15,
+        "rating": 3,
+        "images": [
+          "./assets/images/Scented Candles1.jpeg",
+          "./assets/images/Scented Candles2.jpeg",
+          "./assets/images/Scented Candles3.jpeg"
+        ],
+        "sizes": []
+      },
+      {
+        "id": 17,
+        "name": "Essential Oil Blend",
+        "description": "A soothing and invigorating handmade essential oil blend designed to promote relaxation, energy, or focus. Made with 100% pure and natural essential oils, carefully selected for their therapeutic properties.",
+        "price": 12,
+        "rating": 3.5,
+        "images": [
+          "./assets/images/Essential Oil Blend.jpeg",
+          "./assets/images/Essential Oil Blend2.jpeg"
+        ],
+        "sizes": ["10ml", "30ml"]
+      },
+      {
+        "id": 18,
+        "name": "Bath Bomb",
+        "description": "A fizzy, luxurious bath bomb that dissolves in water, releasing soothing scents, moisturizing oils, and vibrant colors to enhance your bath experience. Perfect for relaxation and skin nourishment.",
+        "price": 7,
+        "rating": 3.5,
+        "images": [
+          "./assets/images/Bath Bomb1.jpeg",
+          "./assets/images/Bath Bomb2.jpeg"
+        ],
+        "sizes": []
+      },
+      {
+        "id": 19,
+        "name": "Face Serums",
+        "description": "A nourishing and rejuvenating handmade face serum designed to target specific skin concerns such as hydration, anti-aging, or brightening. Made with high-quality natural oils and botanical extracts for a healthy, glowing complexion.",
+        "price": 70,
+        "rating": 3,
+        "images": [
+          "./assets/images/faceserum.jpeg",
+          "./assets/images/faceserum1#2.jpeg",
+          "./assets/images/faceSerum3.jpeg"
+        ],
+        "sizes": ["30ml"]
+      },
+      {
+        "id": 20,
+        "name": "Natural Tinted Lip Balms",
+        "description": "A nourishing and colorful natural lip balm that provides hydration while adding a subtle tint to your lips. Made with organic ingredients to keep your lips soft, smooth, and protected.",
+        "price": 8,
+        "rating": 4.5,
+        "images": [
+          "./assets/images/tint1.jpeg",
+          "./assets/images/tint2.jpeg",
+          "./assets/images/tint3.jpeg"
+        ],
+        "sizes": []
+      },
+      {
+        "id": 21,
+        "name": "Solid Perfumes",
+        "description": "A convenient and eco-friendly way to carry your favorite fragrance in a solid form. Handmade with natural oils and waxes, these solid perfumes provide a subtle, long-lasting scent that’s perfect for on-the-go.",
+        "price": 12,
+        "rating": 4,
+        "images": [
+          "./assets/images/Solid Perfumes1.jpeg",
+          "./assets/images/Solid Perfumes2.jpeg"
+        ],
+        "sizes": []
+      },
+      {
+        "id": 22,
+        "name": "Handmade Roll-On Perfumes",
+        "description": "A natural and convenient way to wear fragrance, these handmade roll-on perfumes are infused with essential oils and natural ingredients. The roll-on applicator ensures a smooth, precise application with a long-lasting scent.",
+        "price": 100,
+        "rating": 4,
+        "images": [
+          "./assets/images/Handmade Roll-On Perfumes1.jpeg",
+          "./assets/images/Handmade Roll-On Perfumes2.jpeg"
+        ],
+        "sizes": ["10ml", "15ml"]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Fashion",
+    "products": [
+      {
+        "id": 23,
+        "name": "Classic Denim Jacket",
+        "description": "Classic crochet denim jacket for all body types, available in various sizes.",
+        "price": 100,
+        "rating": 4.7,
+        "images": [
+          "./assets/images/044.jpg",
+          "./assets/images/uygt.jpg",
+          "./assets/images/download.jpeg",
+          "./assets/images/aq.jpg"
+        ],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      {
+        "id": 24,
+        "name": "Cardigan Sweater",
+        "description": "pink crochet patchwork cardigan unique graphic designs, comfortable and stylish.",
+        "price": 70,
+        "rating": 3.5,
+        "images": [
+          "./assets/images/pink crochet patchwork cardigan.jpeg",
+          "./assets/images/pp0.jpg",
+          "./assets/images/876.jpg",
+          "./assets/images/cc.jpg"
+        ],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      {
+        "id": 25,
+        "name": "Dresses",
+        "description": "A flowy, lightweight summer dress perfect for casual outings.",
+        "price": 45,
+        "rating": 4.6,
+        "images": [
+          "./assets/images/10 Summer.jpeg",
+          "./assets/images/65.jpg",
+          "./assets/images/ffo.jpg",
+          "./assets/images/32.jpg"
+        ],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      {
+        "id": 26,
+        "name": "Suit",
+        "description": "Casual Suits with white color, perfect for casual wear.",
+        "price": 200,
+        "rating": 5,
+        "images": [
+          "./assets/images/2785d4e41453c3ec5e18e8685f004999.jpg",
+          "./assets/images/ssss.jpg",
+          "./assets/images/sss.jpg",
+          "./assets/images/ssjpg.jpg"
+        ],
+        "sizes": ["S", "M", "L", "XL"]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Accessories",
+    "products": [
+      {
+        "id": 27,
+        "name": "Mobile phone cover decorations",
+        "description": "A collection of mobile phone cover decorations studded with colorful pearls.",
+        "price": 98,
+        "rating": 3.6,
+        "images": [
+          "./assets/images/o.jpeg",
+          "./assets/images/hhh.jpg",
+          "./assets/images/X.jpg",
+          "./assets/images/XX.jpg"
+        ],
+        "sizes": []
+      },
+      {
+        "id": 28,
+        "name": "Hair band",
+        "description": "Handmade hair band made of colorful roses.",
+        "price": 30,
+        "rating": 4.7,
+        "images": [
+          "./assets/images/6.jpeg",
+          "./assets/images/=.jpg",
+          "./assets/images/==.jpg",
+          "./assets/images/===.jpg"
+        ],
+        "sizes": []
+      },
+      {
+        "id": 29,
+        "name": "Beaded Necklace",
+        "description": "Necklace made of pearls and golden stones.",
+        "price": 30,
+        "rating": 5,
+        "images": [
+          "./assets/images/ade Necklaces Jewelry For Her.jpeg",
+          "./assets/images/+.jpg",
+          "./assets/images/++.jpg",
+          "./assets/images/+++.jpg"
+        ],
+        "sizes": []
+      },
+      {
+        "id": 30,
+        "name": "Earrings",
+        "description": "Multicolor Beaded Earrings Set.",
+        "price": 88,
+        "rating": 3.9,
+        "images": [
+          "./assets/images/ad.jpeg",
+          "./assets/images/m.jpg",
+          "./assets/images/mm.jpg",
+          "./assets/images/mmm.jpg"
+        ],
+        "sizes": []
+      },
+      {
+        "id": 31,
+        "name": "Wallets",
+        "description": "Handmade beaded mini card wallet in multiple colors and shapes.",
+        "price": 50,
+        "rating": 4.8,
+        "images": [
+          "./assets/images/00.jpg",
+          "./assets/images/000.jpg",
+          "./assets/images/00000.jpg",
+          "./assets/images/0000.jpg"
+        ],
+        "sizes": []
+      }
+    ]
+  }
+]
